@@ -10,7 +10,7 @@
     "babel-polyfill": "6.26.0",
     "babel-runtime": "6.26.0",
     "meteor-node-stubs": "0.3.2",
-    "simpl-schema": "1.4.1"
+    "@excelnetinc/simpl-schema": "1.5.5"
   },
   "devDependencies": {
     "chromedriver": "2.33.2",

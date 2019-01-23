@@ -1,5 +1,9 @@
 # Change Log
 
+## 3.0.1 
+
+Forked from aleed package for maintenance
+
 ## 3.0.0
 
 Updated to depend on `aldeed:collection2@3.0.0` rather than `aldeed:collection2-core`. Core has been merged back into the main package as a 3.0.0 release.

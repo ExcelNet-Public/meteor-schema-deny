@@ -1,6 +1,5 @@
-[![CircleCI](https://circleci.com/gh/aldeed/meteor-schema-deny/tree/master.svg?style=svg)](https://circleci.com/gh/aldeed/meteor-schema-deny/tree/master)
 
-# aldeed:schema-deny
+# excelnet:schema-deny
 
 A Meteor package that allows you to deny inserting or updating certain properties in your database by setting options in your schema.
 
@@ -9,7 +8,7 @@ A Meteor package that allows you to deny inserting or updating certain propertie
 In your Meteor app directory, enter:
 
 ```bash
-meteor add aldeed:schema-deny
+meteor add excelnet:schema-deny
 ```
 
 ## Usage

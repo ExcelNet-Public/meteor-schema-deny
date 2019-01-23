@@ -1,6 +1,6 @@
 // collection2 checks to make sure that simpl-schema package is added
-import SimpleSchema from 'simpl-schema';
-import Collection2 from 'meteor/aldeed:collection2';
+import SimpleSchema from '@excelnetinc/simpl-schema';
+import Collection2 from 'meteor/excelnet:collection2';
 
 // Extend the schema options allowed by SimpleSchema
 SimpleSchema.extendOptions(['denyInsert', 'denyUpdate']);
